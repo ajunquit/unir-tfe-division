@@ -22,3 +22,4 @@ updates:
     open-pull-requests-limit: 5
     target-branch: "main"
     labels: ["dependencies", "nuget"]
+
